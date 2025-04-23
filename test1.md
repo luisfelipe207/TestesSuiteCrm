@@ -1,4 +1,4 @@
-Test Case 01: Valid Login with Correct Credentials
+# Test Case 01: Valid Login with Correct Credentials
 
 ## 1. Introduction and Description
 This activity aims to provide a realistic software testing experience within the SuiteCRM environment, combining code analysis with hands-on testing. The focus is on producing detailed and well-organized test reports that simulate the daily tasks of a software tester. The tested software is SuiteCRM, accessed at [https://crm.alunostds.dev.br](https://crm.alunostds.dev.br).
